@@ -29,7 +29,7 @@ const App = () => {
             <li><a href="http://www.twitter.com" target='_blank' className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
             <li><a href="http://www.facebook.com" target='_blank' className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
             <li><a href="https://github.com/kartz15" target='_blank' className="icon brands fa-github"><span className="label">Github</span></a></li>
-            <li><a href="mailto:karthika.shanthi@gmail.com" target='_blank' className="icon solid fa-envelope"><span className="label">Email</span></a></li>
+            <li><a href="mailto:karthi.karthicool@gmail.com" target='_blank' className="icon solid fa-envelope"><span className="label">Email</span></a></li>
             <li><a href="https://www.linkedin.com/in/karthika-ts/"  target='_blank' className="icon brands fa-linkedin"><span className="label">LinkedIn</span></a></li>
           </ul>
         </div>
