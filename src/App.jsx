@@ -85,7 +85,7 @@ const App = () => {
                       <p>An application to manage restaurant operations, from orders to inventory.</p>
                     </header>
                     <footer>
-                      <a href="https://your-live-link.com" target="_blank">View Live</a> | 
+                      <a href="https://rms15.netlify.app/" target="_blank">View Live</a> | 
                       <a href="https://www.youtube.com/watch?v=NwBZfL0sFzw" target="_blank">Watch Video</a>
                     </footer>
                   </article>
